@@ -13,18 +13,13 @@ Ce dépôt rassemble des travaux réalisés autour du thème de la **recherche d
 
 ## Prérequis
 
-- **Python** (version recommandée : 3.8+)
-- **Jupyter Notebook** ou Jupyter Lab
+- **Python** 
+- **Jupyter Notebook**
 - Modules Python couramment utilisés :
   - `numpy`
   - `pandas`
   - `matplotlib`
   - (Éventuellement d'autres modules standards, selon les besoins de chaque notebook.)
-
-Pour installer les dépendances de base :
-```bash
-pip install numpy pandas matplotlib
-```
 
 ## Comment utiliser ce dépôt ?
 
