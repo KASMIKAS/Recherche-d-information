@@ -40,9 +40,6 @@ Ce dépôt rassemble des travaux réalisés autour du thème de la **recherche d
 - Chaque `.ipynb` est autonome ; il détaille une problématique ou un aspect particulier de la recherche d'information.
 - Les analyses et visualisations sont intégrées dans les notebooks pour faciliter la compréhension des résultats.
 
-## Auteur
-
-Réalisé par [KASMIKAS](https://github.com/KASMIKAS)
 
 ---
 
